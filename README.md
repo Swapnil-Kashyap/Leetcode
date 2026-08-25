@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0231-power-of-two) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
