@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
