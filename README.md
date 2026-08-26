@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0078-subsets) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Minimax
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
