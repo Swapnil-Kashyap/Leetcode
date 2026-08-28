@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0078-subsets) |
+| [0393-utf-8-validation](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
