@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1720-decode-xored-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1720-decode-xored-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1720-decode-xored-array) |
 | [1829-maximum-xor-for-each-query](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
