@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0078-subsets) |
 | [0393-utf-8-validation](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0835-image-overlap](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0835-image-overlap) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1720-decode-xored-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
