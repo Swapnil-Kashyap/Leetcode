@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1927-sum-game) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1829-maximum-xor-for-each-query](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1872-stone-game-viii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
