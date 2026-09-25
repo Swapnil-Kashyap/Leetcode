@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0090-subsets-ii) |
+| [1096-brace-expansion-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -242,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
