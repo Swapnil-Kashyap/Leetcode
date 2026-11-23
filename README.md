@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0835-image-overlap](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/0835-image-overlap) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -317,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Swapnil-Kashyap/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
